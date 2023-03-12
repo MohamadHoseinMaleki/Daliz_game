@@ -2,7 +2,7 @@
 
 Daliz is a game that we wrote in the fundamental programming class as a final project of the semester
 
-**Features of this project:**
+     **Features of this project:**
 
 Single player game, play with system 
 
